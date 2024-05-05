@@ -1,0 +1,357 @@
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Finalize request
+Preprocessing Time =  0.0028468
+******* calling primary process function *******
+pre-stage1
+1
+nF in the first pass =  192
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+count loop 1=  60
+Pt1 Elapsed_Time =  12.279254400000001
+nF =  472
+MOD-Pt1 =  0.023947699999999017
+Number of detected Sperms before modification =  472
+[CYTHON] num of iteration - evaluation variable value =  0
+MOD-Pt2 =  1.8150683
+MOD-Pt3 =  0.015784999999999272
+Pt4 Elapsed_Time =  0.05574700000000021
+MOD-Pt5=  0.03824499999999986
+Number of detected Sperms after modification =  234
+MOD-Pt6 =  0.005847000000001046
+Pt2 Elapsed_Time =  1.9554141000000005
+number of detected sperms before debris removal =  234
+number of detected sperms AFTER debris removal =  186
+Pt3 Elapsed_Time =  0.5347910000000002
+Pt4 Elapsed_Time =  0.5863575000000001
+Pt5 Elapsed_Time =  0.0003792000000011342
+Pt6 Elapsed_Time =  0.00027389999999982706
+Result is ready!
+----JSON file is created!!!-----
+Total Processing Time =  15.4427492
+Finalize request
+Finalize request
+Preprocessing Time =  0.0012478000000015754
+******* calling primary process function *******
+pre-stage1
+1
+nF in the first pass =  249
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+count loop 1=  60
+Pt1 Elapsed_Time =  15.561767599999996
+nF =  475
+MOD-Pt1 =  0.024578699999992182
+Number of detected Sperms before modification =  475
+[CYTHON] num of iteration - evaluation variable value =  0
+MOD-Pt2 =  1.9226493000000033
+MOD-Pt3 =  0.012880899999998974
+Pt4 Elapsed_Time =  0.04177479999999889
+MOD-Pt5=  0.027333199999986846
+Number of detected Sperms after modification =  291
+MOD-Pt6 =  0.004588699999999335
+Pt2 Elapsed_Time =  2.034461300000004
+number of detected sperms before debris removal =  291
+number of detected sperms AFTER debris removal =  229
+Pt3 Elapsed_Time =  0.6065765000000027
+Pt4 Elapsed_Time =  0.8787157999999948
+Pt5 Elapsed_Time =  0.0004038000000008424
+Pt6 Elapsed_Time =  0.00020439999998700387
+Result is ready!
+----JSON file is created!!!-----
+Total Processing Time =  19.206338599999995
+Finalize request
+Finalize request
+Preprocessing Time =  0.0014161000000001422
+******* calling primary process function *******
+pre-stage1
+1
+nF in the first pass =  192
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+count loop 1=  60
+Pt1 Elapsed_Time =  13.545077300000003
+nF =  472
+MOD-Pt1 =  0.038793099999992364
+Number of detected Sperms before modification =  472
+[CYTHON] num of iteration - evaluation variable value =  0
+MOD-Pt2 =  2.1263279999999867
+MOD-Pt3 =  0.016788599999998155
+Pt4 Elapsed_Time =  0.048426199999994424
+MOD-Pt5=  0.02915530000001354
+Number of detected Sperms after modification =  234
+MOD-Pt6 =  0.003627999999991971
+Pt2 Elapsed_Time =  2.263797699999998
+number of detected sperms before debris removal =  234
+number of detected sperms AFTER debris removal =  186
+Pt3 Elapsed_Time =  0.5614216000000027
+Pt4 Elapsed_Time =  0.7109331000000054
+Pt5 Elapsed_Time =  0.00041400000000635373
+Pt6 Elapsed_Time =  0.0002340000000060627
+Result is ready!
+----JSON file is created!!!-----
+Total Processing Time =  17.175469500000005
+Finalize request
+Finalize request
+Preprocessing Time =  0.0021917999999914173
+******* calling primary process function *******
+pre-stage1
+1
+nF in the first pass =  192
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+count loop 1=  60
+Pt1 Elapsed_Time =  13.661363400000013
+nF =  472
+MOD-Pt1 =  0.03160310000001232
+Number of detected Sperms before modification =  472
+[CYTHON] num of iteration - evaluation variable value =  0
+MOD-Pt2 =  2.007716700000003
+MOD-Pt3 =  0.016283399999991843
+Pt4 Elapsed_Time =  0.04936600000002045
+MOD-Pt5=  0.0357953999999836
+Number of detected Sperms after modification =  234
+MOD-Pt6 =  0.003723299999990104
+Pt2 Elapsed_Time =  2.1452290999999946
+number of detected sperms before debris removal =  234
+number of detected sperms AFTER debris removal =  186
+Pt3 Elapsed_Time =  0.5535820000000058
+Pt4 Elapsed_Time =  0.6417955999999947
+Pt5 Elapsed_Time =  0.0006237000000055559
+Pt6 Elapsed_Time =  0.00032260000000405853
+Result is ready!
+----JSON file is created!!!-----
+Total Processing Time =  17.142951499999995
+Finalize request
